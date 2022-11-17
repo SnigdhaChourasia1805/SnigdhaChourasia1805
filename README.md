@@ -1,10 +1,11 @@
-<h3 align="center">I am Snigdha</h3>
+<h1 align="center">Hi 👋, I'm Snigdha Chourasia</h1>
+<h3 align="center">Shy young lady with lots of curiosities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snigdhachourasia1805&label=Profile%20views&color=0e75b6&style=flat" alt="snigdhachourasia1805" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snigdhachourasia1805" alt="snigdhachourasia1805" /></a> </p>
 
-- 🔭 I’m currently working on *DSA and Graphic Designing*
+- 🔭 I’m currently working on *DSA*
 
 - 📫 How to reach me *snigdhachourasia1206@gmail.com*
 
@@ -17,4 +18,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhachourasia1805&show_icons=true&locale=en&layout=compact" alt="snigdhachourasia1805" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snigdhachourasia1805&show_icons=true&locale=en&layout=compact" alt="snigdhachourasia1805" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snigdhachourasia1805&show_icons=true&locale=en" alt="snigdhachourasia1805" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snigdhachourasia1805&" alt="snigdhachourasia1805" /></p>
